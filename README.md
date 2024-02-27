@@ -1,2 +1,2 @@
 # StoreMCVPlus
-"StoreMVCPlus is a comprehensive project implementing the MVC paradigm to develop a sophisticated graphical user interface seamlessly integrated with an electronic store model, ensuring a modular, organized, and user-friendly application."
+The name "StoreMVCPlus" reflects the core concepts of the project: Store signifies the electronic store model, MVC emphasizes the use of the Model-View-Controller paradigm, and Plus highlights the additional improvements and enhancements made to the existing codebase. This name succinctly communicates the project's focus on integrating MVC principles into the electronic store model while introducing enhancements for a more robust and user-friendly graphical user interface (GUI) using Java.
